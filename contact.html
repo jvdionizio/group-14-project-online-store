@@ -4,9 +4,85 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" type="text/css" href="./contact-style.css" />
+    <script src="./contact-script.js" defer></script>
     <title>contact</title>
   </head>
   <body>
-    
+    <div class="main">
+      <div class="container title">
+        <h1>
+          Contato
+        </h1>
+      </div>
+      <div class="container contact-main">
+        <div class="contact-container geoinfo">
+          <div class="geoinfo-text">
+            <span>
+              <img src="./Vivid.JS.png" id="marker" alt="maps marker" width=12 />
+             Av. Trab. São Carlense, 400<br>Centro, São Carlos <br>SP, 13566-590
+            </span>
+            <br>
+            <span>
+              <img src="./305027.svg" alt="telefone icon" width=12/>
+              016 - 33739700
+            </span>
+          </div>
+          <div id="map"></div>
+        </div>
+        <div class="contact-container form-container">
+          <form>
+            <label for="name">
+              Seu Nome:
+              <input
+                type="text"
+                name="name"
+                id="name"
+              />
+            </label>
+            <label for="email">
+              Seu Email:
+              <input
+                type="text"
+                name="email"
+                id="email"
+              />
+            </label>
+            <label for="subject">
+              Assunto:
+              <select
+                name="subject"
+                id="subject"
+              >
+                <option value="Roupa com defeito" >Roupa com defeito</option>
+                <option value="Produto não chegou" >Produto não chegou</option>
+                <option value="Não consigo rastrear meu produto" >Não consigo rastrear meu produto</option>
+                <option value="Elogio" >Elogio</option>
+                <option value="Reclamação" >Reclamação</option>
+                <option value="Outro" selected >Outro</option>
+              </select>
+            </label>
+            <label for="description">
+              Descrição:
+              <textarea
+                name="description"
+                id="description"
+                rows="6"
+                cols="33"
+              ></textarea>
+              <p id="counter">500</p>
+            </label>
+            <button
+              type="submit"
+            > Enviar</button>
+          </form>
+          </div>
+        </div>
+      </div>
+      <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyYUFPwQvVXKx49svGkDNncM_HY-QDQuM&callback=initMap&v=weekly&language=pt&region=BR"
+      defer
+    ></script>
   </body>
 </html>
