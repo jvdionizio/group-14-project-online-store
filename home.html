@@ -4,9 +4,95 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <link rel="stylesheet" href="home.css">
+    <script src="https://kit.fontawesome.com/4ad380ded7.js" crossorigin="anonymous"></script>
+
+    
+    <script>
+      function sticked() {
+        let logo = document.querySelector(".logo")
+        let elementTop = logo.getBoundingClientRect().top;
+        console.log(elementTop);
+        if(elementTop < 8){
+          logo.classList.add("sticked");
+        } 
+        else {
+          logo.classList.remove("sticked");
+        }
+      }
+
+      window.addEventListener("scroll",sticked);
+    </script>
+
   </head>
   <body>
-    
+      <title>Home</title>
+      <div class="sticky logo">
+        <a href="#"><img src="mercado-livre-logo-1-1.png"></a>
+  
+      </div>
+      <form id="searchbar">
+        <input type="text" placeholder="Pesquisar">
+        <button type="submit"><i class="fas fa-search"></i></button>
+      </form>
+  
+      <div class="options sticky">
+        <ul>
+            <a href="#"><li>Promoções</li></a>
+            <a href="#"><li>Roupas</li></a>
+            <a href="#"><li>Acessórios</li></a>
+            <a href="#"><li>Contato</li></a>
+        </ul>
+        <div class="shopping-bag">
+          <a href="#"><img src="icons8-shopaholic-32.png"></a>
+        </div>
+        <div class="user">
+          <p style="padding-right: 10px;">José da Silva</p>
+        </div>
+        <div class="profile">
+          <a href="#"><img src="avatar-1221966cb0e1c673a57a74a000209809.jpg"></a>
+        </div>
+      </div>
+
+      <div class="dresser">
+        <img src="Person_icon_BLACK-01.svg.png">
+      </div>
+
+
+
+
+
+
+      <div class="banner">
+      </div>
+
+      <h1 style="text-align: center">Categorias</h1>
+        <ul class="categorias">
+          <a href="#"><li><img src="camiseta.png"></li></a>
+          <a href="#"><li><img src="vestir.png"></li></a>
+          <a href="#"><li><img src="camiseta.png"></li></a>
+          <a href="#"><li><img src="vestir.png"></li></a>
+          <a href="#"><li><img src="camiseta.png"></li></a>
+          <a href="#"><li><img src="vestir.png"></li></a>
+          <a href="#"><li><img src="camiseta.png"></li></a>
+          <a href="#"><li><img src="vestir.png"></li></a>
+          <a href="#"><li><img src="camiseta.png"></li></a>
+          <a href="#"><li><img src="vestir.png"></li></a>
+        </ul>
+
+
+      <h1 style="margin: 100px 0 0 50px;">Vistos Recentemente</h1>
+      <ul class="vistos-recentemente">
+        <a href="#"><li><img src="camiseta.png"></li></a>
+        <a href="#"><li><img src="vestir.png"></li></a>
+        <a href="#"><li><img src="camiseta.png"></li></a>
+        <a href="#"><li><img src="vestir.png"></li></a>
+        <a href="#"><li><img src="camiseta.png"></li></a>
+        <a href="#"><li><img src="vestir.png"></li></a>
+        <a href="#"><li><img src="camiseta.png"></li></a>
+        <a href="#"><li><img src="vestir.png"></li></a>
+        <a href="#"><li><img src="camiseta.png"></li></a>
+        <a href="#"><li><img src="vestir.png"></li></a>
+      </ul>
   </body>
 </html>
