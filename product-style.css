@@ -1,0 +1,85 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #dadada
+}
+
+body {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.main {
+  background-color: #F6F0F0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  max-width: 1400px;
+  min-width: 100px;
+  height: 70px;
+
+  background: #e2e2e2;  
+  border-radius: 5px;
+  font-size: 1.6rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.description {
+  max-width: 200px;
+  min-width: 100px;
+  height: 100%;  
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: solid;
+  border-width: thin;
+  border-color: #dadada;
+  border-radius: 10px;
+}
+
+.info {
+  display: flex;
+  padding: 10px;
+}
+
+.image {
+  display: flex;
+  padding-right: 10px;
+}
+
+.carrinho {
+  display: flex;
+  padding: 10px;
+  align-content: center;
+  justify-content: center;
+}
+
+.preco {
+  font-size: 50px;
+  border: solid;
+  border-width: thin;
+  border-color: #000000;
+  border-radius: 15px;
+}
+
+.button {
+  background-color: #3823f5;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 30px;
+  border-width: thin;
+  border-color: #000000;
+  border-radius: 15px;
+}
