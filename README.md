@@ -1,4 +1,4 @@
-# group-14-project-online-store
+# Project Online Store
 
 Este projeto é um projeto realizado por estudantes da USP, o intuito do projeto é fazer um e-commerce, com objetivo de promover os conhecimentos adquiridos em aula.
 
@@ -14,6 +14,8 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 
 ## SUMÁRIO
 
+- [Instruções para acessar o projeto](#instruções-para-acessar-o-projeto)
+ -[Figma](#figma)
 - [Habilidades](#habilidades)
   - [Hard Skills](#hard-skills)
   - [Soft Skills](#soft-skills)
@@ -42,6 +44,22 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 
 ---
 
+# Instruções para acessar o projeto
+
+1. Clone o repositório
+  * `git clone git@github.com:jvdionizio/group-14-project-online-store.git`
+  * Entre na pasta que você a acabou de clonar:
+    * `cd group-14-project-online-store`
+
+2. Instale as dependências e inicialize o projeto
+  * Instale as dependências:
+    * `npm install`
+
+### Figma
+
+  Para acessar os exemplos de páginas que fizemos com do projeto finalizado basta entra [neste link](https://www.figma.com/file/8BWRa4qGzv9NQUM9XwFAVU/P%C3%A1gina-modelo?node-id=2%3A13)
+
+---
 ## Habilidades
 
 ### Hard Skills
@@ -79,7 +97,7 @@ Escolhemos as API's e plataformas procurando dar uma melhor experiência ao usu�
 
 ### Etapas
 
-- Fazer exemplos gráficos das principais paginas da aplicação no figma
+- Fazer exemplos gráficos das principais paginas da aplicação no [figma](https://www.figma.com/file/8BWRa4qGzv9NQUM9XwFAVU/P%C3%A1gina-modelo?node-id=2%3A13)
 - Definir requisitos
 - Ler a documentação das API's
 - Fazer as funções responsáveis pela requisição nas API's
@@ -89,18 +107,6 @@ Escolhemos as API's e plataformas procurando dar uma melhor experiência ao usu�
 
 ---
 
-# Instruções para acessar o projeto
-
-1. Clone o repositório
-  * `git clone git@github.com:jvdionizio/group-14-project-online-store.git`
-  * Entre na pasta que você a acabou de clonar:
-    * `cd group-14-project-online-store`
-
-2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
-    * `npm install`
-
----
 # Requisitos
 
 Além dos requisitos pré estabelecidos pelo professor definimos alguns outros requisitos baseados em nossos objetivos e em nosso exemplo gráfico
