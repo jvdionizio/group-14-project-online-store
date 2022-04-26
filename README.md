@@ -93,8 +93,8 @@ Escolhemos as API's e plataformas procurando dar uma melhor experiência ao usu�
 
 1. Clone o repositório
   * `git clone git@github.com:jvdionizio/group-14-project-online-store.git`
-  *Entre na pasta que você a acabou de clonar:
-    *`cd group-14-project-online-store`
+  * Entre na pasta que você a acabou de clonar:
+    * `cd group-14-project-online-store`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
