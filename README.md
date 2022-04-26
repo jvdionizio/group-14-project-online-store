@@ -8,7 +8,7 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 
 ---
 
-<p align="center"><img src="./working.gif" alt="web site working"></p>
+<p align="center"><img src="./home-page.png" alt="web site home page"></p>
 
 ---
 
