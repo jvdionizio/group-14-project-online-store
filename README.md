@@ -105,9 +105,7 @@ Escolhemos as API's e plataformas procurando dar uma melhor experiência ao usu�
 - Manipular o DOM.
 - Design da página pelo CSS
 
----
-
-# Requisitos
+## Requisitos
 
 Além dos requisitos pré estabelecidos pelo professor definimos alguns outros requisitos baseados em nossos objetivos e em nosso exemplo gráfico
 
