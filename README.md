@@ -213,7 +213,6 @@ Além dos requisitos pré estabelecidos pelo professor definimos alguns outros r
 ## Lições Aprendidas
 
 - Manipular mapas e os elementos dentro de um mapa;
-- Conseguir a localização do navegador da pessoa usuária;
 - Fazer brainstorms;
 - Organizar reuniões periódicas;
 - Organizar melhor branch's e commits.
