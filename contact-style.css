@@ -102,11 +102,4 @@ textarea {
 #counter{
   font-size: 1rem;
   align-self: flex-end;
-  position: absolute;
-  top: 589px;
-  right: 240px ;
-}
-
-button {
-
 }
