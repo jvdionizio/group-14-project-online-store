@@ -22,6 +22,22 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
   - [Escolha da API's](#escolha-das-apis)
   - [Etapas](#etapas)
   - [Requisitos](#requisitos)
+    -[Tela de Inicio](#tela-de-inicio)
+      -[1. Criar um header](#1-criar-um-header)
+      -[2. Criar um botão para página de pré visualização das roupas](#2-criar-um-botão-para-página-de-pré-visualização-das-roupas)
+      -[3. Criar uma sessão de categorias](#3-criar-uma-sessão-de-categorias)
+      -[4. Criar sessão de vistos recentemente](#4-criar-sessão-de-vistos-recentemente)
+    -[Tela de Contato](#tela-de-contato)
+      -[5. Criar um título](#5-criar-um-título)
+      -[6. Criar uma área para o endereço da empresa](#6-criar-uma-área-para-o-endereço-da-empresa)
+      -[7. Criar um mapa interativo](#7-criar-um-mapa-interativo)
+      -[8. Criar um formulário](#8-criar-um-formulário)
+      -[9. Criar botão de enviar o formulário](#9-criar-botão-de-enviar-o-formulário)
+    -[Tela do Produto](#tela-do-produto)
+      -[10. Foto do Produto](#10-foto-do-produto)
+      -[11. Criar área de descrição do produto](#11-criar-área-de-descrição-do-produto)
+      -[12. Preço do produto](#12-preço-do-produto)
+      -[13. Criar botão  de adicionar ao carrinho](#13-criar-botão-de-adicionar-ao-carrinho)
 - [Lições Aprendidas](#lições-aprendidas)
 
 ---
@@ -64,11 +80,25 @@ Escolhemos as API's e plataformas procurando dar uma melhor experiência ao usu�
 ### Etapas
 
 - Fazer exemplos gráficos das principais paginas da aplicação no figma
+- Definir requisitos
 - Ler a documentação das API's
 - Fazer as funções responsáveis pela requisição nas API's
 - Fazer a páginas em html.
 - Manipular o DOM.
 - Design da página pelo CSS
+
+---
+
+# Instruções para acessar o projeto
+
+1. Clone o repositório
+  * `git clone git@github.com:jvdionizio/group-14-project-online-store.git`
+  *Entre na pasta que você a acabou de clonar:
+    *`cd group-14-project-online-store`
+
+2. Instale as dependências e inicialize o projeto
+  * Instale as dependências:
+    * `npm install`
 
 ---
 # Requisitos
