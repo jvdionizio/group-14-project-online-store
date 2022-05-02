@@ -23,7 +23,7 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 - [Desenvolvimento](#desenvolvimento)
   - [Escolha da API's](#escolha-das-apis)
   - [Etapas](#etapas)
-  - [Requisitos](#requisitos)
+- [Requisitos](#requisitos)
   <details>
     <summary>Tela de Inicio</summary>
 
