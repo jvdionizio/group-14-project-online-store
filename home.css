@@ -40,7 +40,7 @@ body {
 
 .logo.sticked img{
     transition: .25s ease;
-    clip-path:  polygon(0% 0%, 0% 50%, 100% 50%, 100% 0%);
+    clip-path:  polygon(0% 0%, 0% 60%, 100% 60%, 100% 0%);
 } 
 
 .sticky {
