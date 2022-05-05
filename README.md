@@ -1,8 +1,11 @@
 # Project Online Store
 
 ###Autores
+--- 
 Mateus Israel - 11735042;
+
 João Victor Dionizio - 12543912;
+
 Pedro Liduino - 11796847;
 
 
