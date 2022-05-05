@@ -1,5 +1,11 @@
 # Project Online Store
 
+###Autores
+Mateus Israel - 11735042;
+João Victor Dionizio - 12543912;
+Pedro Liduino - 11796847;
+
+
 Este projeto é um projeto realizado por estudantes da USP, o intuito do projeto é fazer um e-commerce, com objetivo de promover os conhecimentos adquiridos em aula.
 
 Tivemos a ideia de fazer uma loja de roupas em que a pessoa usuária possa ter uma experiência de pré visualização de combinações de roupas diferentes;
