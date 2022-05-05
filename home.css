@@ -158,3 +158,11 @@ a {
 .banner img {
     max-height: 100%;
 }
+
+.category-text {
+    text-align: center;
+}
+
+.recent-text {
+    margin: 100px 0 0 50px;
+}
