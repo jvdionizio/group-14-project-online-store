@@ -83,7 +83,7 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 
 ### Figma
 
-  Para acessar os exemplos de páginas que fizemos com do projeto finalizado basta entra [neste link](https://www.figma.com/file/8BWRa4qGzv9NQUM9XwFAVU/P%C3%A1gina-modelo?node-id=2%3A13)
+  Para acessar o diagrama e os exemplos de páginas que fizemos com do projeto finalizado basta entra [neste link](https://www.figma.com/file/8BWRa4qGzv9NQUM9XwFAVU/P%C3%A1gina-modelo?node-id=2%3A13)
 
 ---
 
