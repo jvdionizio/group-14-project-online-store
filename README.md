@@ -20,7 +20,7 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 
 ---
 
-<p align="center"><img src="./img/home-page.png" alt="web site home page"></p>
+<p align="center"><img src="./home-page.png" alt="web site home page"></p>
 
 ---
 
