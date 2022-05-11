@@ -232,7 +232,8 @@ Além dos requisitos pré estabelecidos pelo professor definimos alguns outros r
   - CPF
   - Nome
   - Sobrenome
-  - Telefone
+  - Email
+  - Senha
 
 #### 15. Dados da pessoa administradora
 
@@ -240,6 +241,8 @@ Além dos requisitos pré estabelecidos pelo professor definimos alguns outros r
   - CNPJ
   - Nome da loja
   - Telefone
+  - Email
+  - Senha
 
 #### 16. Dados do produto
 
