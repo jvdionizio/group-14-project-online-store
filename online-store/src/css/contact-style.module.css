@@ -40,7 +40,7 @@ body {
   justify-content: center;
 }
 
-.contact-main {
+.contact_main {
   width: 1000px;
   height: 500px;
 
@@ -52,7 +52,7 @@ body {
   padding: 32px;
 }
 
-.contact-container {
+.contact_container {
   flex-basis: 40%;
   background: #FFFFFF;
   border-radius: 10px;
@@ -66,7 +66,7 @@ body {
   justify-content: space-evenly;
 }
 
-.form-container {
+.form_container {
   justify-content: center;
 }
 
