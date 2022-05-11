@@ -39,6 +39,7 @@ body {
 }
 
 .logo.sticked img{
+    margin-top: -20px;
     transition: .25s ease;
     clip-path:  polygon(0% 0%, 0% 60%, 100% 60%, 100% 0%);
 } 
@@ -148,7 +149,7 @@ a {
 }
 
 .banner {
-    background-image: url("banner-test.jpg");
+    background-image: url("img/banner-test.jpg");
     background-size: cover;
     border-bottom: 3px solid black;
     width: 100%;
