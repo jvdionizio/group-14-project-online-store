@@ -232,6 +232,7 @@ Além dos requisitos pré estabelecidos pelo professor definimos alguns outros r
   - CPF
   - Nome
   - Sobrenome
+  - Endereço
   - Email
   - Senha
 
