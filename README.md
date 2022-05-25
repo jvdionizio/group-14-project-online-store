@@ -27,7 +27,7 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 ## SUMÁRIO
 
 - [Instruções para acessar o projeto](#instruções-para-acessar-o-projeto)
-  -[Protótipo do Projeto](#protótipo-do-projeto)
+  - [Protótipo do Projeto](#protótipo-do-projeto)
 - [Habilidades](#habilidades)
   - [Hard Skills](#hard-skills)
   - [Soft Skills](#soft-skills)
